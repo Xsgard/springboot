@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="app"></div>
+
+<script></script>
+<script>
+    let vue = new Vue({
+        el: "#app",
+        created() {
+            this.getById();
+        },
+        methods: {
+            getById() {
+                axios.get("/books/{id}");
+            }
+        }
+    })
+</script>
+
+</body>
+</html>
