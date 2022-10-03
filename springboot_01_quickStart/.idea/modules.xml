@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot_01_quickStart.iml" filepath="$PROJECT_DIR$/springboot_01_quickStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot_02_base_config/springboot_02_base_config.iml" filepath="$PROJECT_DIR$/../springboot_02_base_config/springboot_02_base_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_03_read_data/springboot_03_read_data.iml" filepath="$PROJECT_DIR$/../springboot_03_read_data/springboot_03_read_data.iml" />
     </modules>
   </component>
 </project>
